@@ -5,4 +5,4 @@ Due to size limitations, the training/testing dataset cannot be uploaded onto Gi
 
 COVID-Net is accessible for use on https://covid-net.anvil.app/. 
 
-Note: The website will NOT work unless I have the backend Jupyter Notebook running on my computer. Please contact me if you would like to use the model.
+Note: The website will NOT work unless I have the backend Jupyter Notebook running. Please contact me if you would like to use the model.
